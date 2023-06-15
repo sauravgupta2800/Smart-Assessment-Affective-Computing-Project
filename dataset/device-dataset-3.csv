@@ -1,0 +1,10 @@
+﻿id,level,category,image,hint,correct,engagement,excitement,stress,relax,interest,focus,seenHint,emotionType,timeLeft
+"array-easy-1","Easy","array","/static/media/ArrayEasy1.493a43b3f758919f499b.png","/static/media/ArrayEasy1.87684747a84a0c380da7.jpg",false,0.112269,0.173491,0.185868,0.136409,0.169356,0.175543,false,"neutral",0
+"array-easy-2","Easy","array","/static/media/ArrayEasy2.192e6c2eb5f795112c95.png","/static/media/ArrayEasy2.357bc27978d1528f5040.jpg",true,0.156896,0.214952,0.222401,0.159867,0.188235,0.227611,false,"neutral",38
+"array-medium-1","Medium","array","/static/media/ArrayMedium1.85630c9b4488df5b5eb9.png","/static/media/ArrayMedium1.05f1fe03d404730d8231.jpg",true,0.216192,0.189176,0.182765,0.231172,0.194355,0.179151,true,"neutral",10
+"array-medium-2","Medium","array","/static/media/ArrayMedium2.ad5dca2f88d0b2491c8c.png","/static/media/ArrayMedium2.b431781e32c323f0faae.jpg",true,0.257952,0.188948,0.192241,0.192143,0.242903,0.250899,false,"neutral",29
+"array-hard-1","Hard","array","/static/media/ArrayHard1.a3b9cd3c8326a6b91458.png","/static/media/ArrayHard1.c55b87eac9b89ca3fc7c.jpg",false,0.215154,0.231782,0.214631,0.273079,0.184027,0.175108,false,"neutral",51
+"stack-easy-1","Easy","stack","/static/media/StackEasy1.ce6eba2b07ae9789de93.png","/static/media/StackEasy1.a98df4cd40aff17c03bd.jpg",false,0.160117,0.172876,0.184472,0.162604,0.200135,0.192592,false,"neutral",43
+"stack-easy-2","Easy","stack","/static/media/StackEasy2.ce0ba14935203a07d0d7.png","/static/media/StackEasy2.41418702a18c2124c45b.jpg",true,0.244361,0.188858,0.175525,0.21624,0.186373,0.171408,false,"neutral",44
+"stack-medium-1","Medium","stack","/static/media/StackMedium1.cedb613241cf4b0abd55.png","/static/media/StackMedium1.e8f10a3e66a3533a057f.jpg",true,0.134927,0.182022,0.177153,0.181788,0.149535,0.146144,false,"neutral",52
+"stack-medium-2","Medium","stack","/static/media/StackMedium2.b3cf8fb182e66e2ebcb8.png","/static/media/StackMedium2.ce6d728d4b87d9ed83b0.jpg",true,0.152341,0.157154,0.170467,0.120389,0.190216,0.221847,false,"neutral",47

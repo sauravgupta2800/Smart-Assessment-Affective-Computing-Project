@@ -1,0 +1,9 @@
+﻿id,level,category,image,hint,correct,engagement,excitement,stress,relax,interest,focus,seenHint,emotionType,timeLeft
+"array-easy-1","Easy","array","/static/media/ArrayEasy1.493a43b3f758919f499b.png","/static/media/ArrayEasy1.87684747a84a0c380da7.jpg",false,0.246558,0.253879,0.168884,0.209863,0.228311,0.227383,false,"neutral",0
+"array-easy-2","Easy","array","/static/media/ArrayEasy2.192e6c2eb5f795112c95.png","/static/media/ArrayEasy2.357bc27978d1528f5040.jpg",false,0.171855,0.219697,0.234653,0.262931,0.189733,0.167276,false,"neutral",41
+"stack-easy-1","Easy","stack","/static/media/StackEasy1.ce6eba2b07ae9789de93.png","/static/media/StackEasy1.a98df4cd40aff17c03bd.jpg",false,0.171855,0.219697,0.234653,0.262931,0.189733,0.167276,false,"neutral",45
+"stack-easy-2","Easy","stack","/static/media/StackEasy2.ce0ba14935203a07d0d7.png","/static/media/StackEasy2.41418702a18c2124c45b.jpg",true,0.171855,0.219697,0.234653,0.262931,0.189733,0.167276,false,"neutral",59
+"stack-medium-1","Medium","stack","/static/media/StackMedium1.cedb613241cf4b0abd55.png","/static/media/StackMedium1.e8f10a3e66a3533a057f.jpg",true,0.171855,0.219697,0.234653,0.262931,0.189733,0.167276,false,"neutral",51
+"stack-medium-2","Medium","stack","/static/media/StackMedium2.b3cf8fb182e66e2ebcb8.png","/static/media/StackMedium2.ce6d728d4b87d9ed83b0.jpg",false,0.171855,0.219697,0.234653,0.262931,0.189733,0.167276,false,"neutral",36
+"queue-easy-1","Easy","queue","/static/media/QueueEasy1.d75c7b24fc7b6dd270ad.png","/static/media/QueueEasy1.e5f6d79f50d5f857b8a2.jpg",false,0.171855,0.219697,0.234653,0.262931,0.189733,0.167276,false,"neutral",49
+"queue-easy-2","Easy","queue","/static/media/QueueEasy2.aa123f6fd477ca15a138.png","/static/media/QueueEasy2.dd4e55d11ecc85f074db.jpg",false,0.265363,0.279828,0.158691,0.189628,0.231313,0.235396,false,"neutral",53

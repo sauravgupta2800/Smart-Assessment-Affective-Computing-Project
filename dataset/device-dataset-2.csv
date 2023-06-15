@@ -1,0 +1,8 @@
+﻿id,level,category,image,hint,correct,engagement,excitement,stress,relax,interest,focus,seenHint,emotionType,timeLeft
+array-easy-1,Easy,array,/static/media/ArrayEasy1.493a43b3f758919f499b.png,/static/media/ArrayEasy1.87684747a84a0c380da7.jpg,FALSE,,,,,,,FALSE,neutral,17
+array-easy-2,Easy,array,/static/media/ArrayEasy2.192e6c2eb5f795112c95.png,/static/media/ArrayEasy2.357bc27978d1528f5040.jpg,FALSE,0.487612,0.735939,0.551117,0.573481,0.505473,0.418069,FALSE,negative,0
+stack-easy-1,Easy,stack,/static/media/StackEasy1.ce6eba2b07ae9789de93.png,/static/media/StackEasy1.a98df4cd40aff17c03bd.jpg,FALSE,0.316637,0.232267,0.31672,0.431146,0.387212,0.240909,FALSE,neutral,26
+stack-easy-2,Easy,stack,/static/media/StackEasy2.ce0ba14935203a07d0d7.png,/static/media/StackEasy2.41418702a18c2124c45b.jpg,FALSE,0.316637,0.232267,0.31872,0.431146,0.387212,0.240909,FALSE,neutral,58
+queue-easy-1,Easy,queue,/static/media/QueueEasy1.d75c7b24fc7b6dd270ad.png,/static/media/QueueEasy1.e5f6d79f50d5f857b8a2.jpg,TRUE,0.474467,0.216043,0.389587,0.462504,0.400243,0.443277,FALSE,neutral,57
+queue-easy-2,Easy,queue,/static/media/QueueEasy2.aa123f6fd477ca15a138.png,/static/media/QueueEasy2.dd4e55d11ecc85f074db.jpg,FALSE,0.474467,0.216043,0.389587,0.462504,0.400243,0.443277,FALSE,neutral,58
+queue-medium-1,Medium,queue,/static/media/QueueMedium1.36eb860f58800b122fa4.png,/static/media/QueueMedium1.664f368eb5c3a208ca34.jpg,FALSE,0.316637,0.232267,0.32672,0.431146,0.387212,0.240909,TRUE,neutral,0

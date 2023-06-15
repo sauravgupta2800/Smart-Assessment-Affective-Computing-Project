@@ -1,0 +1,9 @@
+﻿id,level,category,image,hint,correct,engagement,excitement,stress,relax,interest,focus,seenHint,emotionType,timeLeft
+"queue-easy-1","Easy","queue","/static/media/QueueEasy1.d75c7b24fc7b6dd270ad.png","/static/media/QueueEasy1.e5f6d79f50d5f857b8a2.jpg",true,0.660601,0.48908,0.649289,0.54171,0.485554,0.720344,true,"negative",17
+"queue-easy-2","Easy","queue","/static/media/QueueEasy2.aa123f6fd477ca15a138.png","/static/media/QueueEasy2.dd4e55d11ecc85f074db.jpg",true,0.660053,0.301972,0.574184,0.510174,0.378954,0.64642,true,"negative",19
+"queue-medium-1","Medium","queue","/static/media/QueueMedium1.36eb860f58800b122fa4.png","/static/media/QueueMedium1.664f368eb5c3a208ca34.jpg",false,0.546476,0.281492,0.582266,0.462255,0.368989,0.620697,false,"negative",37
+"queue-medium-2","Medium","queue","/static/media/QueueMedium2.5a92d89463bb9b12c3f0.png","/static/media/QueueMedium2.4085da1d8bb8f778182a.jpg",false,0.502254,0.246674,0.587633,0.524914,0.3308,0.560294,false,"negative",58
+"array-easy-1","Easy","array","/static/media/ArrayEasy1.493a43b3f758919f499b.png","/static/media/ArrayEasy1.87684747a84a0c380da7.jpg",true,0.499592,0.199858,0.566369,0.484299,0.333008,0.554865,false,"negative",49
+"array-easy-2","Easy","array","/static/media/ArrayEasy2.192e6c2eb5f795112c95.png","/static/media/ArrayEasy2.357bc27978d1528f5040.jpg",true,0.499592,0.199858,0.566369,0.484299,0.333008,0.554865,false,"negative",56
+"array-medium-1","Medium","array","/static/media/ArrayMedium1.85630c9b4488df5b5eb9.png","/static/media/ArrayMedium1.05f1fe03d404730d8231.jpg",true,0.461482,0.205253,0.539892,0.36656,0.316064,0.58337,false,"negative",56
+"array-medium-2","Medium","array","/static/media/ArrayMedium2.ad5dca2f88d0b2491c8c.png","/static/media/ArrayMedium2.b431781e32c323f0faae.jpg",true,0.481901,0.274704,0.550921,0.399936,0.312518,0.589018,true,"negative",36
