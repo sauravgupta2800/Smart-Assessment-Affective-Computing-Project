@@ -1,6 +1,9 @@
 # Smart Assessment Affective Computing Project
 
+The objective of this project is to develop an intelligent and adaptable coding interview platform that utilizes affective emotional signals, captured through the interviewee's electroencephalography (EEG) data, to interpret their emotional responses during the interview process. By analyzing the EEG data using advanced machine learning algorithms, the application will provide real-time feedback and recommendations to the interviewee, helping them improve their responses and manage their emotions effectively. Additionally, the platform will mimic the behavior of a human interviewer by adjusting the difficulty level and questioning approach based on the interviewee's emotional state. This project aims to address the biases, subjectivity, and inefficiencies of traditional job interviews and enhance hiring decisions through objective and accurate assessments of candidates' emotional states.
+
 Presentation Video Link: https://drive.google.com/file/d/1-zN0vIucOMmM8321RopE-pFHiHeOM108/view?usp=sharing
+
 
 ## Installation
 
