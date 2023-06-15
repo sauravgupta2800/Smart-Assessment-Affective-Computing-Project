@@ -44,7 +44,7 @@ Presentation Video Link: https://drive.google.com/file/d/1-zN0vIucOMmM8321RopE-p
   ```
   node index.js
   ```
-6. Access the application:
+6. Access the Hardware device:
 - Connect your Emotiv (virtual or Real device)
 
 7. Access the application:
